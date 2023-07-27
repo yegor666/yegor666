@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Uaxj062PavgqZRhVkS/giphy.gif" width="100"/>
+</div>
+
 # Портфолио: инженер по тестированию
 
 ## Обо мне
@@ -12,6 +16,4 @@
 
 ## Проекты
 
-Проект 1: тест веб-приложения для учителей от Skyeng
-
-Что нужно было сделать:
+ Тест веб-приложения для учителей от Skyeng
