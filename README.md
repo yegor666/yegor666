@@ -12,10 +12,12 @@
 ## Навыки и технологии
 
 `Jira`, `qase.io`, `SQL`, `Postman`, `Fiddler`, `Swagger`, `Trello`,
-`SoapUI`, `Charles`, `Git`, `Chrome DevTools`.
+`SoapUI`, `Charles`, `Git`, `Chrome DevTools`, `Figma`.
 
 ## Проекты
 
  Тест веб-приложения для учителей от Skyeng
 
 [Подробности этого проекта расписал здесь](https://placid-bar-90b.notion.site/Web-REST-API-Postman-56d35d27a1d04dcf9e28a8ca93cfcba6?pvs=4)
+
+Так же, на данный момент участвую в проекте [cryptofactory.dev](https://dev.cryptofactory.dev/en). Выполняю функциональное и UI тестирование.
