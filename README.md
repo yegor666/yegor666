@@ -12,8 +12,8 @@
 
 ## Навыки и технологии
 
-`Jira`, `Qase.io`, `SQL`, `Postman`, `Fiddler`, `Swagger`, `Trello`,
-`SoapUI`, `Charles`, `Git`, `Android Studio`, `Chrome DevTools`.
+`Jira`, `Qase.io`, `SQL`, `Postman`, `Fiddler`, `Proxyman`,`Charles`, `Swagger`, `Trello`,
+`SoapUI`, `Git`, `Android Studio`, `Chrome DevTools`.
 
 ## Проекты
 
